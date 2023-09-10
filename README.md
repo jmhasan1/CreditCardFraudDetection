@@ -1,8 +1,8 @@
 # CreditCardFraudDetection
-Machine Learing Project
+<h2>Machine Learing Project</h2>
 
 
-Work Flow
+<h3>Work Flow</h3>
 
 
-Credit Crad Data -------> Data Preprocessing  ------------> Data Analysis  ------------->  Train/Test Split -------------->   Logisic Regression Model  ---------------->   Evaluation
+<p>Credit Crad Data -------> Data Preprocessing  ------------> Data Analysis  ------------->  Train/Test Split -------------->   Logisic Regression Model  ---------------->   Evaluation</p>
